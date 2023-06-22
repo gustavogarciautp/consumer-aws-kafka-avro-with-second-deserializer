@@ -1,0 +1,1 @@
+# consumer-aws-kafka-avro-with-second-deserializer
